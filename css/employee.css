@@ -1,0 +1,44 @@
+employees {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: table;
+    }
+employee{
+    display: grid;
+    border: 2px solid blue;
+   display: table-row;
+}
+name {
+    font-size: 20px;
+    display: table-cell;
+    border: 2px solid black;
+}
+age {
+    font-size: 15px;
+    display: table-cell;
+    border: 2px solid black;
+}
+phone {
+    font-size: 20px;
+    border: 2px solid black;
+    display: table-cell;
+}
+salary {
+    font-size: 20px;
+    border: 2px solid black;
+    display: table-cell;
+}
+address {
+    font-size: 20px;
+    border: 2px solid black;
+    display: table-cell;
+}
+post {
+    font-size: 20px;
+    border: 2px solid black;
+    display: table-cell;
+}
+empID {
+    font-size: 20px;
+    border: 2px solid black;
+    display: table-cell;
+}
